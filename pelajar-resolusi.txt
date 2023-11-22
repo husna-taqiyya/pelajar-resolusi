@@ -2,4 +2,5 @@ PELAJAR RESOLUSI
 - membuat kesimpulan suatu pelajaran di setiap pekan
 - mengumpulkan tugas sebelum hari sabtu
 - membuat forum diskusi
-- forum diskusi dilaksanakan pada hari sabtu
+- forum diskusi dilaksanakan pada hari jum'at
+- forum diskusi dimulai pada pukul 08.00 - selesai
