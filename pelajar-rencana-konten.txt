@@ -2,11 +2,18 @@ RENCANA KONTEN
 - Javasrcipt
   * ES6
   * Framework Javascript
+  coba-fitur-1
     ^ Vue
     ^ React
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+
+     ^ Angular
+     ^ React
+- PHP Frameworks
+   ^ Laravel
+ main
 - Interview
 - Vlog
 - Python
